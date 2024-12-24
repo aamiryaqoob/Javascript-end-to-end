@@ -377,6 +377,7 @@
 // .map((num) => {
 //   return num % 2 == 0 ? num * 2 : num * 3;
 // });
+
 // console.log(c);
 
 // Write a js program to read and print elements of array.
