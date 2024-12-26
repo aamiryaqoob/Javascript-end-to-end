@@ -404,6 +404,5 @@
 // const numsarr = [12,345,212,211,2122,43]
 // const newarr= [...numsarr,stirngArr]
 // console.log(newarr)
-
 // newarr.push("asdf")
 // console.log(newarr)
