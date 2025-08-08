@@ -408,5 +408,5 @@
 // console.log(newarr)
 
 //This is testing
-const sum = a + b;
-console.log(sum);
+// const sum = 1 + 1;
+// console.log(sum);
