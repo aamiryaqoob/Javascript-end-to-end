@@ -406,7 +406,3 @@
 // console.log(newarr)
 // newarr.push("asdf")
 // console.log(newarr)
-
-//This is testing
-// const sum = 1 + 1;
-// console.log(sum);
